@@ -1,4 +1,7 @@
-# mcis6273-F21-datamining
+updating the file using vi
+
+B
+
  lorem ipsum
   lorem ipsum
    lorem ipsum
